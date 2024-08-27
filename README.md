@@ -2,7 +2,6 @@
 - 👀 I’m interested in Renewable energy sources, especially solar energy systems.
 - 🌱 I’m currently learning Electronics and Communication, focusing on IoT and solar monitoring systems.
 - 💞️ I’m looking to collaborate on projects related to solar energy, IoT applications, and sustainable technologies.
-- 📫 How to reach me: [Shreyaskannur94@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m always off-grid 24/7 with a solar-powered setup, even running experiments to optimize energy usage!
 -  
